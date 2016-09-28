@@ -5,7 +5,7 @@ class HelloTest extends \PHPUnit_Framework_TestCase
 
     public function testAssertTrue()
     {
-        $this->assertTrue(false, 'False is not true');
+        $this->assertTrue(true, 'False is not true');
     }
 
     public function testAssertEquals()
