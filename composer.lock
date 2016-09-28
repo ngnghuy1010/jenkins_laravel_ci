@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d9fef5666fa9d4d42077b3adeef9b2e1",
-    "content-hash": "a9153f2391b1657024a5a7780fa7488c",
+    "hash": "525ccb271eb1f736e6a53e665751b39e",
+    "content-hash": "aa80ed97930a39b998bcf3a9488b1e7e",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -1947,16 +1947,16 @@
     "packages-dev": [
         {
             "name": "appzcoder/crud-generator",
-            "version": "v1.2.1",
+            "version": "v1.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/appzcoder/crud-generator.git",
-                "reference": "84e3a5071a04138f86ad0d21a5acc0b367027f5c"
+                "reference": "9dbb84c96a9642b17532c5fd263bdee2433c0adf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/appzcoder/crud-generator/zipball/84e3a5071a04138f86ad0d21a5acc0b367027f5c",
-                "reference": "84e3a5071a04138f86ad0d21a5acc0b367027f5c",
+                "url": "https://api.github.com/repos/appzcoder/crud-generator/zipball/9dbb84c96a9642b17532c5fd263bdee2433c0adf",
+                "reference": "9dbb84c96a9642b17532c5fd263bdee2433c0adf",
                 "shasum": ""
             },
             "require": {
@@ -1967,10 +1967,7 @@
             "autoload": {
                 "psr-4": {
                     "Appzcoder\\CrudGenerator\\": "src/"
-                },
-                "files": [
-                    "src/helpers.php"
-                ]
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -1990,7 +1987,7 @@
                 "laravel",
                 "laravel crud generator"
             ],
-            "time": "2016-09-17 04:59:18"
+            "time": "2016-09-27 15:20:36"
         },
         {
             "name": "barryvdh/laravel-ide-helper",
@@ -2995,16 +2992,16 @@
         },
         {
             "name": "phpspec/phpspec",
-            "version": "2.5.2",
+            "version": "2.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/phpspec.git",
-                "reference": "7e7e104de01b5052195cefefcd0b29f1add4c116"
+                "reference": "153ebd99d9b842e0c99a024c41f970d79db46475"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/phpspec/zipball/7e7e104de01b5052195cefefcd0b29f1add4c116",
-                "reference": "7e7e104de01b5052195cefefcd0b29f1add4c116",
+                "url": "https://api.github.com/repos/phpspec/phpspec/zipball/153ebd99d9b842e0c99a024c41f970d79db46475",
+                "reference": "153ebd99d9b842e0c99a024c41f970d79db46475",
                 "shasum": ""
             },
             "require": {
@@ -3069,7 +3066,7 @@
                 "testing",
                 "tests"
             ],
-            "time": "2016-09-04 11:59:15"
+            "time": "2016-09-26 20:28:11"
         },
         {
             "name": "phpspec/prophecy",
